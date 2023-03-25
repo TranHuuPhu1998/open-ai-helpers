@@ -1,0 +1,14 @@
+{
+  "name": "@phutran98/open-ai-helpers",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "0.0.1",
+  "type": "commonjs",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "dependencies": {},
+  "peerDependencies": {
+    "tslib": "^2.3.0"
+  }
+}
